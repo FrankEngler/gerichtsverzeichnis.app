@@ -1,0 +1,14 @@
+title: Gerichtsverzeichnis
+lang: de
+
+remote_theme: jekyll/minima@v2.5.2
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-minifier
+
+sass:
+  style: compressed
+
+jekyll-minifier:
+  remove_intertag_spaces: true
